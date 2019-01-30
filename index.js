@@ -1,3 +1,4 @@
+// Could not load tests due to errors so took solution
 function createPost() {
     // create template functions
     var pageTemplate = _.template(document.getElementById("page-template").innerHTML);
